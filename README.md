@@ -1,5 +1,7 @@
 ## Code Walkthrough: Product Research Crew with CrewAI
 
+![](img/Gemini_agent1.jpeg)
+
 This code snippet demonstrates how to use the CrewAI framework to create a multi-agent system that researches and compares different brands of a product. Let's break down the code section by section:
 
 **1. Importing Modules:**
