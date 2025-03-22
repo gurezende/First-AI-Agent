@@ -12,7 +12,7 @@ Here is an example of the agent's response about *Laptop PC*
 | **Brand3**      | $600–$1,800              | Reliable build, gaming (Legion series), line line | 4.6/5                       |
 
 **Recommendation:**
-**** is the **best brand** based on consistent top rankings for performance (abc-series chips), durability, user reviews (e.g., 4.8/5 on Laptop, CNET), and expert praise for its ecosystem and longevity. However, **Brand2** offers strong value-for-money options like the notebook 14 OLED, while **Brand3** excels in versatility (gaming/workstations).
+**Brand1** is the **best brand** based on consistent top rankings for performance (abc-series chips), durability, user reviews (e.g., 4.8/5 on Laptop, CNET), and expert praise for its ecosystem and longevity. However, **Brand2** offers strong value-for-money options like the notebook 14 OLED, while **Brand3** excels in versatility (gaming/workstations).
 
 **Source Validation:**
 - Performance/Ratings: Aggregated from Laptop, CNET, Tom's Guide, and Reddit reviews.
