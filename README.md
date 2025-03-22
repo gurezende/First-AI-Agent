@@ -60,7 +60,7 @@ This code snippet demonstrates how to use the CrewAI framework to create a multi
         * For OpenAI: `export OPENAI_API_KEY=your_openai_api_key`
 3.  **Run the script:**
     ```bash
-    python your_script_name.py
+    python main.py
     ```
 4.  **Observe the output:** The script will print the results of the agent's research, including a table comparing laptop brands and a recommendation.
 
